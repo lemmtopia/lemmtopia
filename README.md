@@ -1,9 +1,9 @@
 # 👋 Hi
 ## I’m Gabriel A.K.A. Mesmo
 ### About me
-- 👀 I’m interested in **Game Development**
-- 🌱 I’m currently learning how to use NeoVim
-- 💞️ I’m looking to collaborate on FOSS or OSS games
+- 👀 I’m interested in **Game Development** and **Front-End Development**
+- 🌱 I’m currently learning webdev via The Odin Project
+- 💞️ I’m looking to collaborate on FOSS or OSS and games
 ### 📫 How to reach me:
 E-mail me: gabrielmesmo97@gmail.com
 
