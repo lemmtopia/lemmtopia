@@ -1,11 +1,7 @@
-# 👋 Hi
-## I’m Gabriel A.K.A. Mesmo
-### About me
-- 👀 I’m interested in **Game Development** and **Front-End Development**
-- 🌱 I’m currently learning webdev via The Odin Project
-- 💞️ I’m looking to collaborate on FOSS or OSS and games
-### 📫 How to reach me:
-E-mail me: gabrielmesmo97@gmail.com
+# 👋 Hi, I’m Gabriel!
+I am your average height, nerdy programmer that loves cats and games. I also code websites, paint with oils and make pixel art. I have a lot of passions, but my dream is to make games for a living!
+
+E-mail me at gabrielmesmo97@gmail.com
 
 <!---
 lemmtopia/lemmtopia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
