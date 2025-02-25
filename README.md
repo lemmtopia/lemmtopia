@@ -2,14 +2,14 @@
 
 ## About 📔
 
-I am your average height, nerdy programmer that loves cats and games. I also code websites, paint with oils and make pixel art. I have a lot of passions, but my dream is to make games for a living!
+I am your average height, nerdy game programmer that loves cats and games. I also code websites, paint with oils and make pixel art. I have a lot of passions, but my dream is to make games for a living!
 
 ## Tools 🛠️
 
 I have experience in working with:
 
-- **Game Engines**: GameMaker, Unity (Currently learning Unreal)
-- **Languages**: C, C++, C# and Lua
+- **Game Engines**: GameMaker, Unity
+- **Languages**: C, C# and Lua
 
 ## Contact ✉️
 - **[LinkedIn](https://www.linkedin.com/in/lemmtopia)**
