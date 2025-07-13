@@ -8,8 +8,8 @@ I am your average height, nerdy game programmer that loves cats and games. I als
 
 I have experience in working with:
 
-- **Game Engines**: GameMaker, Unity
-- **Languages**: C, C# and Lua
+- **Game Engines**: GameMaker, Unity and (currently learning) Unreal Engine.
+- **Languages**: C/C++, GML, C# and Lua
 
 ## Contact ✉️
 - **[LinkedIn](https://www.linkedin.com/in/lemmtopia)**
