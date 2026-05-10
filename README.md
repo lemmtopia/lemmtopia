@@ -1,19 +1,17 @@
-# Hi, I'm Gabriel 👋
+# Olá, eu sou o Gabriel 👋
 
-## About 📔
+## Sobre 📔
 
-I am your average height, nerdy game programmer that loves cats and games. I also code websites, paint with oils and make pixel art. I have a lot of passions, but my dream is to make games for a living!
+Eu sou um desenvolvedor de jogos trabalhando na Game Nacional e estou cursando Análise e Desenvolvimento de Sistemas na FATEC Jundiaí.
 
-## Tools 🛠️
+## Ferramentas 🛠️
 
-I have experience in working with:
+- **Game Engines**: GameMaker
+- **Linguagens**: C/C++, GML, C# and Lua
 
-- **Game Engines**: GameMaker, Unity and (currently learning) Unreal Engine.
-- **Languages**: C/C++, GML, C# and Lua
-
-## Contact ✉️
+## Contato ✉️
 - **[LinkedIn](https://www.linkedin.com/in/lemmtopia)**
-- **[E-mail me!](mailto:gabrielmesmo97@gmail.com)**
+- **[Me mande um e-mail!](mailto:gabrielmesmo97@gmail.com)**
 
 <!---
 lemmtopia/lemmtopia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
